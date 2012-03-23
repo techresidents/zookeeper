@@ -1,4 +1,4 @@
-Zookeeper 3.3.4 - Python Bindings (0.4)
+Zookeeper 3.3.5 - Python Bindings (0.4)
 
 To install:
-pip install git+ssh://dev.30and30.com/30and30/repos/techresidents/lib/python/zookeeper.git
+pip install git+ssh://dev.30and30.com/30and30/repos/techresidents/lib/python/zookeeper.git@3.3.5
